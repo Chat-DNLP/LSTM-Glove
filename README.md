@@ -1,6 +1,6 @@
 # Uso de embeddings preentrenados.
 
-<div alugn="justify">
+<div align="justify">
   
 ## 1. Introducción
 
@@ -80,4 +80,9 @@ Por otro lado, la precisión en el **conjunto de prueba**, aunque es más baja q
 
 Sin embargo, es importante notar que la diferencia entre la precisión del entrenamiento y la de prueba se amplía a medida que crece el tamaño del modelo, lo que podría indicar un **riesgo de sobreajuste** (overfitting). Esto sugiere que, aunque modelos más complejos logran mejores resultados, los incrementos en la precisión del conjunto de prueba son menores comparados con los del entrenamiento, lo que implica que seguir aumentando la complejidad podría llevar a rendimientos decrecientes.
 
+## Créditos
+
+- [Susana Suárez](https://github.com/susanasrez).
+- [Mara Pareja](https://github.com/marapareja17).
+  
 </div>
